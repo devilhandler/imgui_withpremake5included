@@ -1,3 +1,11 @@
+## Custom ignore files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+bin/
+bin-int/
+.vs/
+
 ## Misc artifacts
 .DS_Store
 .claude
